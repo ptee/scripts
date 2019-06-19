@@ -1,4 +1,3 @@
-# scripts
 # misc scripts
 
 * renamejpg.sh: to rename all prefix of jpg files in the given directory.
